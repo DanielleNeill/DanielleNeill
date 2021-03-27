@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DanielleNeill
 - 👀 I’m interested in Java, php, css, JS and html
 - 🌱 I’m currently learning Software Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
+- 📫 How to reach me dannineill@hotmail.com
 
 <!---
 DanielleNeill/DanielleNeill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
