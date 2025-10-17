@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @DanielleNeill
-- 👀 I’m interested in Java, php, css, JS and html
-- 🌱 I’m currently learning Software Development
-- 
+
 - 📫 How to reach me dannineill@hotmail.com
 
 <!---
